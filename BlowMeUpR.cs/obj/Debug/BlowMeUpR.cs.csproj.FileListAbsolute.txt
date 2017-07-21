@@ -1,0 +1,6 @@
+C:\Users\slage\Desktop\C# Bootcamp\MidTermProj\BlowMeUpR.cs\BlowMeUpR.cs\bin\Debug\BlowMeUpR.cs.exe.config
+C:\Users\slage\Desktop\C# Bootcamp\MidTermProj\BlowMeUpR.cs\BlowMeUpR.cs\bin\Debug\BlowMeUpR.cs.exe
+C:\Users\slage\Desktop\C# Bootcamp\MidTermProj\BlowMeUpR.cs\BlowMeUpR.cs\bin\Debug\BlowMeUpR.cs.pdb
+C:\Users\slage\Desktop\C# Bootcamp\MidTermProj\BlowMeUpR.cs\BlowMeUpR.cs\obj\Debug\BlowMeUpR.cs.csprojResolveAssemblyReference.cache
+C:\Users\slage\Desktop\C# Bootcamp\MidTermProj\BlowMeUpR.cs\BlowMeUpR.cs\obj\Debug\BlowMeUpR.cs.exe
+C:\Users\slage\Desktop\C# Bootcamp\MidTermProj\BlowMeUpR.cs\BlowMeUpR.cs\obj\Debug\BlowMeUpR.cs.pdb
